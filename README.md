@@ -11,7 +11,7 @@
 | [_specL_](https://github.com/fgcz/specL) | [![](https://www.bioconductor.org/shields/downloads/release/specL.svg)](https://bioconductor.org/packages/stats/bioc/specL/) |[![](http://bioconductor.org/shields/build/release/bioc/specL.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/specL) |
 | [_tartare_](https://bioconductor.org/packages/tartare/) | [![](https://www.bioconductor.org/shields/downloads/release/tartare.svg)](http://bioconductor.org/packages/stats/data-experiment/tartare/) | |
 | [_protViz_](https://CRAN.R-project.org/package=protViz ) | [![Research software impact](http://depsy.org/api/package/cran/protViz/badge.svg)](http://depsy.org/package/r/protViz) |[![Build Status](https://travis-ci.org/cpanse/protViz.svg)](https://travis-ci.org/cpanse/protViz)|
-| [_recmap_]([https://github.com/cpanse/](https://CRAN.R-project.org/package=recmap) | [![Research software impact](http://depsy.org/api/package/cran/recmap/badge.svg)](http://depsy.org/package/r/recmap) |[![Build Status](https://travis-ci.org/cpanse/recmap.svg)](https://travis-ci.org/cpanse/recmap)|
+| [_recmap_](https://CRAN.R-project.org/package=recmap) | [![Research software impact](http://depsy.org/api/package/cran/recmap/badge.svg)](http://depsy.org/package/r/recmap) |[![Build Status](https://travis-ci.org/cpanse/recmap.svg)](https://travis-ci.org/cpanse/recmap)|
 
 
 
